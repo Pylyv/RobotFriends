@@ -9,4 +9,4 @@ This project was made for learning purposes so it doesn't have a license.
 
 ## How the app looks like
 
-![alt text](https://github.com/Pylyv/RobotFriends/blob/main/assets/robotfriends.jpg)
+![alt text](https://github.com/Pylyv/RobotFriends/blob/main/assets/robotfriends.png)
