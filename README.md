@@ -7,3 +7,6 @@ For learning purposes, I've created a page using my React and JavaScript knowled
 
 This project was made for learning purposes so it doesn't have a license.
 
+## How the app looks like
+
+![alt text](https://github.com/Pylyv/RobotFriends/blob/main/assets/robotfriends.jpg)
